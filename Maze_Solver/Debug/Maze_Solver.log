@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\maze_solver\maze_solver\main.cpp(33): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\maze_solver\maze_solver\main.cpp(34): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\maze_solver\maze_solver\main.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Maze_Solver.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\Projects\Maze_Solver\Debug\Maze_Solver.exe
